@@ -14,6 +14,7 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
+https://sbramhane-dev.github.io/tic-tac-toe/
 
 ## How to Run
 Open index.html in your browser
